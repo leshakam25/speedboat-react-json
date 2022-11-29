@@ -5,14 +5,14 @@
       "orderNumber": 123321,
       "user": {
         "id": 1,
-        "name": "Николай",
+        "name": "Николай Вячеславович",
         "phone": "1231231233",
         "email": "qwe@qwe@ru",
-        "createdAt": "21.12.2021"
+        "createdAt": "21/12/2021 13:47"
       },
       "route": {
         "id": 1,
-        "route": "valaam"
+        "route": "valaam and shchery"
       },
       "status": {
         "id": 2,
@@ -24,7 +24,8 @@
         "id": "1",
         "name": "Ivan",
         "phone": "+7 981 822 12 12",
-        "email": "kim@kim.kim"
+        "email": "kim@kim.kim",
+        "avatar": "https://sun9-1.userapi.com/impf/c301514/v301514899/16b9/HyfQGFYjxjg.jpg?size=240x320&quality=96&sign=f2cb80347639b6ed869d7e268ecdd911&c_uniq_tag=eR016i_ZMagsqpjwjxW6JiDkYMF8hnd-sewqsjSkHA4&type=album"
       }
     }
   ]
