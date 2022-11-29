@@ -12,14 +12,20 @@
       },
       "route": {
         "id": 1,
-        "route": "Valaam"
+        "route": "valaam"
       },
       "status": {
-        "id": 3,
-        "text": "done"
+        "id": 2,
+        "text": "payment is expected"
       },
       "date": "29.10.2022",
-      "createdAt": "12.21.1900"
+      "createdAt": "12.21.1900",
+      "agent": {
+        "id": "1",
+        "name": "Ivan",
+        "phone": "+7 981 822 12 12",
+        "email": "kim@kim.kim"
+      }
     }
   ]
 }
