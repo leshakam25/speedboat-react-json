@@ -2,7 +2,7 @@
   "orders": [
     {
       "id": 1,
-      "orderNumber": 9999,
+      "orderNumber": 1111,
       "user": {
         "id": 1,
         "name": "Николай Вячеславович",
@@ -16,8 +16,8 @@
         "route": "valaam and shchery"
       },
       "status": {
-        "id": 2,
-        "text": "payment is expected"
+        "id": 5,
+        "text": "cancelled"
       },
       "date": "29.10.2022",
       "createdAt": "12.21.1900",
