@@ -240,8 +240,63 @@
       "phone": "+7 912 222 4252",
       "email": "nikolasha@ya.ru",
       "createdAt": "12.21.1900",
-      "orders": [{ "orderNumber": 1111 }, { "orderNumber": 2123 }],
+      "orders": [
+        {
+          "orderNumber": 1111
+        },
+        {
+          "orderNumber": 2123
+        }
+      ],
       "avatar": "https://sun9-21.userapi.com/lB9uI1SI48_5XXAqjCN0fvVUYFZuej0YIZFeTA/ezuE95YmAZ0.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Андрей Смирнов",
+      "phone": "+7 912 222 4252",
+      "email": "nikolasha@ya.ru",
+      "createdAt": "12.21.1900",
+      "orders": [
+        {
+          "orderNumber": 1111
+        },
+        {
+          "orderNumber": 2123
+        }
+      ],
+      "avatar": "https://i.pinimg.com/originals/78/43/5c/78435c5d558843d53bd8778531b61c25.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Жерар Иванов",
+      "phone": "+7 912 222 4252",
+      "email": "nikolasha@ya.ru",
+      "createdAt": "12.21.1900",
+      "orders": [
+        {
+          "orderNumber": 1111
+        },
+        {
+          "orderNumber": 2123
+        }
+      ],
+      "avatar": "https://the-overlord.com/uploads/monthly_2017_09/RobinGolden.thumb.jpg.aac2fcfcbcc9c74820be8ed3eb1ddf23.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Месье Укупник",
+      "phone": "+7 912 222 4252",
+      "email": "nikolasha@ya.ru",
+      "createdAt": "12.21.1900",
+      "orders": [
+        {
+          "orderNumber": 1111
+        },
+        {
+          "orderNumber": 2123
+        }
+      ],
+      "avatar": "https://kinoreporter.ru/wp-content/uploads/2019/07/sub-zero_mortal-kombat_feature-360x218.jpg?x40914"
     }
   ]
 }
