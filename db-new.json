@@ -237,7 +237,7 @@
     {
       "id": 1,
       "name": "Антон Смирнов",
-      "phone": "+7 912 222 4252",
+      "phone": "8 (912) 222 42 52",
       "email": "nikolasha@ya.ru",
       "createdAt": "12.21.1900",
       "orders": [
@@ -252,9 +252,9 @@
     },
     {
       "id": 2,
-      "name": "Андрей Иванов",
-      "phone": "+7 812 222 4252",
-      "email": "nikolasha@ya.ru",
+      "name": "Bonjovu Иванов",
+      "phone": "8 (812) 222 42 51",
+      "email": "nikolasha@ya.ruqwdqw",
       "createdAt": "10.21.1900",
       "orders": [
         {
@@ -269,7 +269,7 @@
     {
       "id": 3,
       "name": "Жерар Петров",
-      "phone": "+7 495 222 4252",
+      "phone": "8 (895) 222 42 52",
       "email": "bobol@ya.ru",
       "createdAt": "06.21.1900",
       "orders": [
@@ -285,7 +285,7 @@
     {
       "id": 4,
       "name": "Месье Укупник",
-      "phone": "+7 112 222 4252",
+      "phone": "8 (812) 222 42 52",
       "email": "ukupnik@ya.ru",
       "createdAt": "03.08.1900",
       "orders": [
@@ -303,9 +303,9 @@
     {
       "id": 1,
       "name": "Агент Танос",
-      "phone": "+7 912 222 4252",
+      "phone": "8 (912) 222 42 52",
       "email": "agentsmirnov@ya.ru",
-      "createdAt": "12.21.1900",
+      "createdAt": "23:30:0, 7.11.2022",
       "orders": [
         {
           "orderNumber": 1111
@@ -319,9 +319,9 @@
     {
       "id": 2,
       "name": "Агент Солнцепёк",
-      "phone": "+7 812 222 4252",
+      "phone": "8 (921) 321 12 32",
       "email": "agentivanov@ya.ru",
-      "createdAt": "12.21.1900",
+      "createdAt": "23:30:0, 7.11.2022",
       "orders": [
         {
           "orderNumber": 2222
@@ -335,9 +335,9 @@
     {
       "id": 3,
       "name": "Агент Мопед",
-      "phone": "+7 495 222 4252",
+      "phone": "8 (495) 222 42 52",
       "email": "agentbobol@ya.ru",
-      "createdAt": "25.21.1900",
+      "createdAt": "23:30:0, 7.11.2022",
       "orders": [
         {
           "orderNumber": 4444
@@ -351,9 +351,9 @@
     {
       "id": 4,
       "name": "Агент Месье Укупник",
-      "phone": "+7 112 222 4252",
+      "phone": "8 (112) 222 42 52",
       "email": "agentukupnik@ya.ru",
-      "createdAt": "21.08.1900",
+      "createdAt": "23:30:0, 7.11.2022",
       "orders": [
         {
           "orderNumber": 6666
@@ -363,6 +363,14 @@
         }
       ],
       "avatar": "https://sun9-26.userapi.com/impf/lNkRwXjdKKCjTH144CLX47WYGophl0cNmWyRLw/yGV50kncIJo.jpg?size=320x214&quality=96&sign=e9191749895fcadf15433d61a28a28b1&c_uniq_tag=Kc7zHfcy_EqeHZixvp6ZMqFp81shqS4cwVQHPAhni0s&type=album"
+    },
+    {
+      "name": "Squadron",
+      "phone": "8 (911) 311 24 24",
+      "email": "wqeqw@hui.com",
+      "createdAt": "23:30:0, 7.11.2022",
+      "id": 5,
+      "avatar": ""
     }
   ]
 }
