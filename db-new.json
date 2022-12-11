@@ -4,10 +4,10 @@
       "route": {
         "route": "valaam"
       },
-      "date": "12/11/2022 14:59",
-      "createdAt": "14:59:50, 11.11.2022",
+      "date": "12/11/2022 15:40",
+      "createdAt": "15:40:46, 11.11.2022",
       "status": {
-        "text": "payment is expected"
+        "text": "cancelled"
       },
       "agent": {
         "id": "777",
@@ -17,188 +17,31 @@
         "avatar": "https://cs6.pikabu.ru/avatars/1724/v1724973-2109843858.jpg"
       },
       "user": {
-        "id": 1,
-        "name": "Антон Смирнов",
-        "phone": "8 (912) 222 42 52",
-        "email": "nikolasha@ya.ru",
-        "createdAt": "12.21.1900",
-        "orders": [
-          {
-            "orderNumber": 3212
-          },
-          {
-            "orderNumber": 4121
-          }
-        ],
-        "avatar": "https://sun9-21.userapi.com/lB9uI1SI48_5XXAqjCN0fvVUYFZuej0YIZFeTA/ezuE95YmAZ0.jpg"
+        "name": "Guest 1",
+        "phone": "8 (999) 777 22 33",
+        "email": "ivan@ya.ru",
+        "createdAt": "15:40:25, 11.11.2022",
+        "id": 1
       },
       "id": 1
-    },
-    {
-      "route": {
-        "route": "valaam"
-      },
-      "date": "12/11/2022 15:03",
-      "createdAt": "15:3:40, 11.11.2022",
-      "status": {
-        "text": "payment is expected"
-      },
-      "agent": {
-        "id": "777",
-        "name": "Алексей Колесников",
-        "phone": "+7 999 921 92 92",
-        "email": "baseagent@ya.ru",
-        "avatar": "https://cs6.pikabu.ru/avatars/1724/v1724973-2109843858.jpg"
-      },
-      "user": {
-        "id": 4,
-        "name": "Месье Укупник",
-        "phone": "8 (812) 222 42 52",
-        "email": "ukupnik@ya.ru",
-        "createdAt": "03.08.1900",
-        "orders": [
-          {
-            "orderNumber": 6666
-          },
-          {
-            "orderNumber": 7777
-          }
-        ],
-        "avatar": "https://kinoreporter.ru/wp-content/uploads/2019/07/sub-zero_mortal-kombat_feature-360x218.jpg?x40914"
-      },
-      "id": 2
     }
   ],
   "users": [
     {
-      "id": 1,
-      "name": "Антон Смирнов",
-      "phone": "8 (912) 222 42 52",
-      "email": "nikolasha@ya.ru",
-      "createdAt": "12.21.1900",
-      "orders": [
-        {
-          "orderNumber": 3212
-        },
-        {
-          "orderNumber": 4121
-        }
-      ],
-      "avatar": "https://sun9-21.userapi.com/lB9uI1SI48_5XXAqjCN0fvVUYFZuej0YIZFeTA/ezuE95YmAZ0.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Bonjovu Иванов",
-      "phone": "8 (812) 222 42 51",
-      "email": "nikolasha@ya.ruqwdqw",
-      "createdAt": "10.21.1900",
-      "orders": [
-        {
-          "orderNumber": 1123
-        },
-        {
-          "orderNumber": 2123
-        }
-      ],
-      "avatar": "https://i.pinimg.com/originals/78/43/5c/78435c5d558843d53bd8778531b61c25.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Жерар Петров",
-      "phone": "8 (895) 222 42 52",
-      "email": "bobol@ya.ru",
-      "createdAt": "06.21.1900",
-      "orders": [
-        {
-          "orderNumber": 4444
-        },
-        {
-          "orderNumber": 5555
-        }
-      ],
-      "avatar": "https://the-overlord.com/uploads/monthly_2017_09/RobinGolden.thumb.jpg.aac2fcfcbcc9c74820be8ed3eb1ddf23.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Месье Укупник",
-      "phone": "8 (812) 222 42 52",
-      "email": "ukupnik@ya.ru",
-      "createdAt": "03.08.1900",
-      "orders": [
-        {
-          "orderNumber": 6666
-        },
-        {
-          "orderNumber": 7777
-        }
-      ],
-      "avatar": "https://kinoreporter.ru/wp-content/uploads/2019/07/sub-zero_mortal-kombat_feature-360x218.jpg?x40914"
+      "name": "Guest 1",
+      "phone": "8 (999) 777 22 33",
+      "email": "ivan@ya.ru",
+      "createdAt": "15:40:25, 11.11.2022",
+      "id": 1
     }
   ],
   "agents": [
     {
-      "id": 1,
-      "name": "Агент Танос",
-      "phone": "8 (912) 222 42 52",
-      "email": "agentsmirnov@ya.ru",
-      "createdAt": "23:30:0, 7.11.2022",
-      "orders": [
-        {
-          "orderNumber": 1111
-        },
-        {
-          "orderNumber": 2123
-        }
-      ],
-      "avatar": "https://sun9-86.userapi.com/impf/c854220/v854220174/7e008/7AWYKYoXmBo.jpg?size=320x215&quality=96&sign=97a4abff9207df419f4d823b8939943e&c_uniq_tag=qL6DbuHOGkIAlDu6ZTEs45URAKm7R3GTOtNK81LwERc&type=album"
-    },
-    {
-      "id": 2,
-      "name": "Агент Солнцепёк",
-      "phone": "8 (921) 321 12 32",
-      "email": "agentivanov@ya.ru",
-      "createdAt": "23:30:0, 7.11.2022",
-      "orders": [
-        {
-          "orderNumber": 2222
-        },
-        {
-          "orderNumber": 3333
-        }
-      ],
-      "avatar": "https://r2.mt.ru/r5/photoA5A7/20815555995-0/jpg/bp.jpeg"
-    },
-    {
-      "id": 3,
-      "name": "Агент Мопед",
-      "phone": "8 (495) 222 42 52",
-      "email": "agentbobol@ya.ru",
-      "createdAt": "23:30:0, 7.11.2022",
-      "orders": [
-        {
-          "orderNumber": 4444
-        },
-        {
-          "orderNumber": 5555
-        }
-      ],
-      "avatar": "https://33.img.avito.st/208x156/8297632033.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Агент Месье Укупник",
-      "phone": "8 (112) 222 42 52",
-      "email": "agentukupnik@ya.ru",
-      "createdAt": "23:30:0, 7.11.2022",
-      "orders": [
-        {
-          "orderNumber": 6666
-        },
-        {
-          "orderNumber": 7777
-        }
-      ],
-      "avatar": "https://sun9-26.userapi.com/impf/lNkRwXjdKKCjTH144CLX47WYGophl0cNmWyRLw/yGV50kncIJo.jpg?size=320x214&quality=96&sign=e9191749895fcadf15433d61a28a28b1&c_uniq_tag=Kc7zHfcy_EqeHZixvp6ZMqFp81shqS4cwVQHPAhni0s&type=album"
+      "name": "Agent Smith",
+      "phone": "8 (999) 777 66 55",
+      "email": "smith@agent.ru",
+      "createdAt": "15:42:18, 11.11.2022",
+      "id": 1
     }
   ]
 }
