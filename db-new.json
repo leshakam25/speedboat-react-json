@@ -1,47 +1,5 @@
 {
-  "orders": [
-    {
-      "route": {
-        "route": "valaam"
-      },
-      "date": "12/11/2022 15:40",
-      "createdAt": "15:40:46, 11.11.2022",
-      "status": {
-        "text": "cancelled"
-      },
-      "agent": {
-        "id": "777",
-        "name": "Алексей Колесников",
-        "phone": "+7 999 921 92 92",
-        "email": "baseagent@ya.ru",
-        "avatar": "https://cs6.pikabu.ru/avatars/1724/v1724973-2109843858.jpg"
-      },
-      "user": {
-        "name": "Guest 1",
-        "phone": "8 (999) 777 22 33",
-        "email": "ivan@ya.ru",
-        "createdAt": "15:40:25, 11.11.2022",
-        "id": 1
-      },
-      "id": 1
-    }
-  ],
-  "users": [
-    {
-      "name": "Guest 1",
-      "phone": "8 (999) 777 22 33",
-      "email": "ivan@ya.ru",
-      "createdAt": "15:40:25, 11.11.2022",
-      "id": 1
-    }
-  ],
-  "agents": [
-    {
-      "name": "Agent Smith",
-      "phone": "8 (999) 777 66 55",
-      "email": "smith@agent.ru",
-      "createdAt": "15:42:18, 11.11.2022",
-      "id": 1
-    }
-  ]
+  "orders": [],
+  "users": [],
+  "agents": []
 }
