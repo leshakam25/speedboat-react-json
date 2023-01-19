@@ -2,31 +2,6 @@
   "orders": [
     {
       "route": {
-        "route": "shchery"
-      },
-      "date": "01/17/2023 19:13",
-      "createdAt": "19:13:49, 17.0.2023",
-      "status": {
-        "text": "payment is expected"
-      },
-      "agent": {
-        "id": "777",
-        "name": "Алексей Колесников",
-        "phone": "+7 999 921 92 92",
-        "email": "baseagent@ya.ru",
-        "avatar": "https://cs6.pikabu.ru/avatars/1724/v1724973-2109843858.jpg"
-      },
-      "user": {
-        "name": "Семён Петрович",
-        "phone": "8 (922) 332 12 12",
-        "email": "sema@ya.ru",
-        "createdAt": "19:10:2, 17.0.2023",
-        "id": 2
-      },
-      "id": 2
-    },
-    {
-      "route": {
         "route": "valaam and shchery"
       },
       "date": "01/17/2023 19:29",
@@ -67,16 +42,52 @@
         "avatar": ""
       },
       "user": {
-        "name": "Семён Петрович",
-        "phone": "8 (922) 332 12 12",
-        "email": "sema@ya.ru",
-        "createdAt": "19:10:2, 17.0.2023",
-        "id": 2
+        "name": "Антон2",
+        "phone": "",
+        "email": "кasd",
+        "createdAt": "20:45:34, 19.0.2023",
+        "id": 1,
+        "avatar": ""
       },
       "id": 4
+    },
+    {
+      "route": {
+        "route": "shchery"
+      },
+      "date": "01/19/2023 22:15",
+      "createdAt": "22:15:53, 19.0.2023",
+      "status": {
+        "text": "payment is expected"
+      },
+      "agent": {
+        "id": "777",
+        "name": "Алексей Колесников",
+        "phone": "+7 999 921 92 92",
+        "email": "baseagent@ya.ru",
+        "avatar": "https://cs6.pikabu.ru/avatars/1724/v1724973-2109843858.jpg"
+      },
+      "user": {
+        "name": "Антон2",
+        "phone": "",
+        "email": "кasd",
+        "createdAt": "20:45:34, 19.0.2023",
+        "id": 1,
+        "avatar": ""
+      },
+      "id": 5
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "Антон2",
+      "phone": "4 (765) 45_ __ __",
+      "email": "кasd",
+      "createdAt": "20:45:34, 19.0.2023",
+      "id": 1,
+      "avatar": ""
+    }
+  ],
   "agents": [
     {
       "name": "Антон Геннадьевич",
@@ -88,15 +99,19 @@
   ],
   "boats": [
     {
-      "name": "Большая берта",
-      "capacity": "6 ",
+      "name": "титаник",
+      "capacity": "1000",
       "queue": "1",
-      "createdAt": "16:57:28, 19.0.2023",
-      "status": "в резерве",
-      "isActive": "true",
+      "createdAt": "21:58:40, 19.0.2023",
+      "status": "в аренд997е",
+      "isActive": "tr807ue",
       "id": 1
     }
   ],
   "news": [],
-  "routes": []
+  "routes": [
+    {
+      "id": 1
+    }
+  ]
 }
