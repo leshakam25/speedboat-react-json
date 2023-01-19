@@ -76,22 +76,7 @@
       "id": 4
     }
   ],
-  "users": [
-    {
-      "name": "123",
-      "phone": "1 (23_) ___ __ __",
-      "email": "123",
-      "createdAt": "15:14:7, 19.0.2023",
-      "id": 1
-    },
-    {
-      "name": "",
-      "phone": "asdasd",
-      "email": "",
-      "createdAt": "15:21:8, 19.0.2023",
-      "id": 2
-    }
-  ],
+  "users": [],
   "agents": [
     {
       "name": "Антон Геннадьевич",
@@ -99,34 +84,19 @@
       "email": "antonka@ya.ru",
       "createdAt": "19:10:42, 17.0.2023",
       "id": 1
-    },
-    {
-      "name": "qwe",
-      "phone": "qwe",
-      "email": "qwe",
-      "createdAt": "15:23:56, 19.0.2023",
-      "id": 2
     }
   ],
   "boats": [
     {
+      "name": "Большая берта",
+      "capacity": "6 ",
+      "queue": "1",
+      "createdAt": "16:57:28, 19.0.2023",
+      "status": "в резерве",
+      "isActive": "true",
       "id": 1
     }
   ],
-  "news": [
-    {
-      "id": 1
-    }
-  ],
-  "routes": [
-    {
-      "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    }
-  ]
+  "news": [],
+  "routes": []
 }
