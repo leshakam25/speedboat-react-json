@@ -4,8 +4,8 @@
       "route": {
         "route": "valaam and shchery"
       },
-      "date": "01/17/2023 19:29",
-      "createdAt": "19:29:9, 17.0.2023",
+      "date": "01/20/2023 13:22",
+      "createdAt": "13:22:43, 20.0.2023",
       "status": {
         "text": "payment is expected"
       },
@@ -17,68 +17,31 @@
         "avatar": "https://cs6.pikabu.ru/avatars/1724/v1724973-2109843858.jpg"
       },
       "user": {
-        "name": "Анатолий Иванович",
-        "phone": "8 (999) 111 22 33",
-        "email": "anatol56@yandex.ru",
-        "createdAt": "19:9:16, 17.0.2023",
+        "name": "ivan",
+        "phone": "123",
+        "email": "ivanivan",
+        "createdAt": "13:19:23, 20.0.2023",
         "id": 1
       },
-      "id": 3
-    },
-    {
-      "route": {
-        "route": "valaam and shchery"
+      "boat": {
+        "name": "ivan",
+        "phone": "123",
+        "email": "ivanivan",
+        "createdAt": "13:19:23, 20.0.2023",
+        "id": 1
       },
-      "date": "01/17/2023 19:32",
-      "createdAt": "19:32:26, 17.0.2023",
-      "status": {
-        "text": "payment is expected"
-      },
-      "agent": {
-        "id": "",
-        "name": "",
-        "phone": "",
-        "email": "",
-        "avatar": ""
-      },
-      "user": {
-        "name": "Антон2",
-        "phone": "",
-        "email": "кasd",
-        "createdAt": "20:45:34, 19.0.2023",
-        "id": 1,
-        "avatar": ""
-      },
-      "id": 4
-    },
-    {
-      "route": {
-        "route": "shchery"
-      },
-      "date": "01/19/2023 22:15",
-      "createdAt": "22:15:53, 19.0.2023",
-      "status": {
-        "text": "payment is expected"
-      },
-      "agent": {
-        "id": "777",
-        "name": "Алексей Колесников",
-        "phone": "+7 999 921 92 92",
-        "email": "baseagent@ya.ru",
-        "avatar": "https://cs6.pikabu.ru/avatars/1724/v1724973-2109843858.jpg"
-      },
-      "user": {
-        "name": "Антон2",
-        "phone": "",
-        "email": "кasd",
-        "createdAt": "20:45:34, 19.0.2023",
-        "id": 1,
-        "avatar": ""
-      },
-      "id": 5
+      "id": 1
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "ivan",
+      "phone": "123",
+      "email": "ivanivan",
+      "createdAt": "13:19:23, 20.0.2023",
+      "id": 1
+    }
+  ],
   "agents": [
     {
       "name": "Антон Геннадьевич",
@@ -96,10 +59,20 @@
       "createdAt": "21:58:40, 19.0.2023",
       "status": "в аренд997е",
       "isActive": "tr807ue",
-      "id": 1
+      "id": 1,
+      "image": "https://f.vividscreen.info/soft/b100abd41f4d21bbb996035c73c9660e/Fishing-boat-on-British-Virgin-Islands-800x600.jpg"
     }
   ],
-  "news": [],
+  "news": [
+    {
+      "id": 1,
+      "image": "https://id.gipernn.ru/dlf2apqd4s8ao_iabt0p_h-555_wm-0.jpeg",
+      "title": "Турпоток россиян на Мальдивы и в Таджикистан вырос в два раза",
+      "text": "Абсолютным лидером по динамике прироста турпотока из России по сравнению с 2019 годом, когда туристические поездки по всему миру не были ограничены, среди зарубежных направлений стал Египет. Сюда российские туристы совершили за девять месяцев 2022 года 578 тыс. поездок против 17 тыс. в те же месяцы 2019 года. Но здесь необходимо учитывать эффект низкой базы 2019 года, когда массовому туризму из России в Египет препятствовало ограничение на авиаперелеты.",
+      "createdAt": "19:10:42, 17.0.2023",
+      "author": "РБК"
+    }
+  ],
   "routes": [
     {
       "id": 1
